@@ -14,17 +14,7 @@ const homeGet = async (request: any, reply: any) => {
     }[]
   } = {
     title: 'Loteria de navidad',
-    decimos: [
-      '98702',
-      '83394',
-      '00231',
-      '89791',
-      '61944',
-      '69619',
-      '40433',
-      '10863',
-      '21106'
-    ],
+    decimos: [],
     results: []
   }
 
