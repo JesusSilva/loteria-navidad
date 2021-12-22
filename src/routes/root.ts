@@ -14,7 +14,7 @@ const homeGet = async (request: any, reply: any) => {
     }[]
   } = {
     title: 'Loteria de navidad',
-    decimos: [],
+    decimos: [], // Introduce aquí tus numeros en formato string
     results: []
   }
 
